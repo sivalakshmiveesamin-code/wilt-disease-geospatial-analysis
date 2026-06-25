@@ -42,5 +42,5 @@ Detecting diseased trees in large geographical areas is highly resource-intensiv
 3. Make sure wilt_master_dataset.csv is in the same directory as the script.
 4. Run the script via your preferred IDE (RStudio) or command line:
    ```bash
-   Rscript analysis.R
+   Rscript Project_Wilt.R
    ```
