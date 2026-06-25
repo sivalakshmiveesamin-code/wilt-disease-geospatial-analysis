@@ -1,5 +1,3 @@
-getwd()
-setwd("C:/DARP")
 library(dplyr)
 library(ggplot2)
 library(reshape2)
@@ -68,7 +66,7 @@ print("--- Class Topic: Confidence intervals using lm() ---")
 
 collinearity_model <- lm(Mean_Red ~ Mean_Green, data = wilt_data)
 
-# Print the summary of the linear model
+# Printing the summary of the linear model
 summary(collinearity_model)
 
 
