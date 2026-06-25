@@ -27,7 +27,7 @@ Detecting diseased trees in large geographical areas is highly resource-intensiv
 
 ## Results & Visualizations
 
-![Decision Tree Fingerprint](tree_plot.png)
+![Decision Tree Fingerprint](decision_tree_wilt.png)
 
 ## How to Run
 
