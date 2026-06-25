@@ -7,7 +7,7 @@
 ## Overview
 This project focuses on identifying and modeling the presence of wilt disease in forestry using satellite spectral measurements (NIR, Red, Green bands). The repository contains the complete R codebase for exploratory data analysis, statistical hypothesis testing, and the deployment of machine learning classification models. 
 
-**Note:** A full visual breakdown of the findings, methodology, and feature importance can be found in the included presentation deck: `Wilt_Disease_Analysis_Deck.pdf`.
+**Note:** A full visual breakdown of the findings, methodology, and feature importance can be found in the included presentation deck: `Project Wilt Group 23.pdf`.
 
 ## Problem Statement
 Detecting diseased trees in large geographical areas is highly resource-intensive. Furthermore, real-world forestry datasets often suffer from severe class imbalance (healthy trees vastly outnumber diseased ones), leading to biased predictive models.
